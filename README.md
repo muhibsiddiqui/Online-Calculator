@@ -36,5 +36,8 @@ Feel free to explore the code and customize it according to your preferences.
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or create a pull request. Let's make this Calculator even better together!
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the [MIT License](https://github.com/muhibsiddiqui/Online-Calculator/blob/main/LICENSE.md). Feel free to use, modify, and distribute the code as needed.
+## Copyright
+Copyright © Muhammad Muhib Siddiqui 2024
+
